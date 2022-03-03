@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class randomMatrix {
     public static void main(String[] args){
+        //시작
         while(true){
         System.out.println("엔터를 누르시면 시작합니다.");
         System.out.println("-------------------------------------------------------------------------------------------------");
